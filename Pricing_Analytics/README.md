@@ -1,5 +1,5 @@
 # [Ticket Pricing at Big Mountain Resort](https://github.com/RDallavia/Springboard/tree/main/ProductPricingModel)
-![](images1/overlook_postcard.jpg)
+![](images/overlook_postcard.jpg)
 ***The Overlook Hotel from Stephen King's "The Shining"***
 ***(Source: [Etsy](https://www.etsy.com/listing/729040276/the-overlook-hotel-postcard-stephen-king))*** 
 # About
